@@ -62,4 +62,4 @@
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/rahma-yasser-9a6341257/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rahma-yasser-9a6341257/)
